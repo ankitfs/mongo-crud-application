@@ -1,0 +1,24 @@
+{
+  "name": "mongo-crud",
+  "version": "1.0.0",
+  "description": "A application for crud operations on mongo db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ankitfs/mongo-crud-application.git"
+  },
+  "author": "ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankitfs/mongo-crud-application/issues"
+  },
+  "homepage": "https://github.com/ankitfs/mongo-crud-application#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
